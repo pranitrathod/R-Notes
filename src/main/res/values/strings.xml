@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">R-Notes</string>
+    <string name="r_notes">R-Notes</string>
+    <string name="enter_your_note_here">ENTER YOUR NOTE HERE</string>
+    <string name="save">SAVE</string>
+    <string name="details">Details</string>
+    <string name="title">Title</string>
+
+
+    <string name="todo">TODO</string>
+    <string name="all_notes">All Notes</string>
+
+
+</resources>
